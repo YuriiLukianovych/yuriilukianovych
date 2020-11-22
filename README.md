@@ -2,7 +2,8 @@
 
 ![logo image](logo-01.png)
 
-- 🌱 I’m currently learning _web-development_ in **GOITAcademy**
+- 🌱 I’m currently learning _web-development_ in
+  [**GOITAcademy**](https://goit.ua/)
 - 📫 How to reach me:
 
   - Telegram: @mr_lukianovych
