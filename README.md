@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![logo image](my_logo.png)
+![logo image](logo.gif)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
