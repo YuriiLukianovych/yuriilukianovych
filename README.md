@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-!(my_logo.png)
+![logo image](my_logo.png)
 
 **YuriiLukianovych/yuriilukianovych** is a ✨ _special_ ✨ repository because
 its `README.md` (this file) appears on your GitHub profile.
