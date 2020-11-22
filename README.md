@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-![logo image](logo.gif)
-
-![logo image](logo2.gif)
-
 ![logo image](logo3.gif)
 
 - 🔭 I’m currently working on ...
