@@ -4,5 +4,8 @@
 
 - 🌱 I’m currently learning _web-development_ in **GOITAcademy**
 - 📫 How to reach me:
+
   - Telegram: @mr_lukianovych
   - E-mail: mr.lukyanovich@gmail.com
+
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YuriiLukianovych)](https://github.com/YuriiLukianovych/github-readme-stats)
