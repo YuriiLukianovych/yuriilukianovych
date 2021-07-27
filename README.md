@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning _web-development_ in
   [**GOITAcademy**](https://goit.ua/)
-- 📫 How to reach me:
+- 📫 How to reach me :
 
   - Telegram: @mr_lukianovych
   - E-mail: mr.lukyanovich@gmail.com
