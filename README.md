@@ -1,6 +1,5 @@
 ### Hi there 👋       💙💛
-
-![logo image](logo-01.png)
+#### I am Junior Frontend Developer
 
 - 🌱 I’m currently learning _web-development_ in
   [**GOITAcademy**](https://goit.ua/)
