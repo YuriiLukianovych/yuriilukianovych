@@ -8,7 +8,7 @@
 
 - 📫 How to reach me: 
   - Email: **mr.lukyanovich@gmail.com**
-  - Telegram: **[mr.lukyanovich@gmail.com](https://t.me/mr_lukianovych)**
+  - Telegram: **[@mr_lukianovych](https://t.me/mr_lukianovych)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
