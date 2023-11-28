@@ -2,8 +2,6 @@
 <h3 align="center">A frontend developer from Ukraine</h3>
 <img align="right" src="https://res.cloudinary.com/practicaldev/image/fetch/s--NzgxrJEe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mdvk568xm4hmk3bjfsqs.gif" width="380">
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 -   🌱 I’m currently learning **React and Node.js**
 
 -   📫 How to reach me:
