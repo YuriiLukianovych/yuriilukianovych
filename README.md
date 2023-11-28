@@ -6,7 +6,9 @@
 
 - 🌱 I’m currently learning **React and Node.js**
 
-- 📫 How to reach me **mr.lukyanovich@gmail.com**
+- 📫 How to reach me: 
+  - Email: **mr.lukyanovich@gmail.com**
+  - Telegram: **[mr.lukyanovich@gmail.com](https://t.me/mr_lukianovych)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
